@@ -60,7 +60,7 @@ With this template, you get all the awesomeness you need:
   - [🤖 ChatGPT Code Review](#-chatgpt-code-review)
   - [💻 Environment Variables handling](#-environment-variables-handling)
   - [🤝 Contribution](#-contribution)
-  - [💌 Support](#support)
+  - [Support](#support)
   - [📜 License](#-license)
   - [Contributors](#contributors)
 
